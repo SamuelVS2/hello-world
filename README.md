@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+I'm going to learn HTML/CSS/Javascript and Jquery this year!
